@@ -38,4 +38,4 @@ Freelance web development under Nexlane — serving local and remote clients
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/YOUR_SLUG) · [Email](mailto:YOUR_EMAIL) · [Portfolio](https://YOUR_PORTFOLIO)
+[LinkedIn](https://www.linkedin.com/in/olti-abazi-739823243/) · [Email](mailto:oltiabazi666@gmail.com) · [Portfolio](https://olti-abazi.netlify.app/)
